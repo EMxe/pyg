@@ -12,7 +12,7 @@ l = 0
 finished = 0
 summy = 0
 p1_total = 0
-p2_total = 0
+p2_total = 0.
 
 def ai():
     global og, finished, summy, p1_total, p2_total, drop, die1, die2
